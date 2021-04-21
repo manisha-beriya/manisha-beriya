@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**manisha-beriya/manisha-beriya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Manisha Beriya, a passionate programmer and web developer. I am currently persuing my Computer Science Undergraduation at NIT SILCHAR.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on Task Manager App
+🌱 I’m currently learning React
+👯 I’m looking to collaborate on Web related projects
+💬 Ask me about Web development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills:
+
+C, C++
+MongoDB, Express, Node.js
+HTML, CSS
+JavaScript
